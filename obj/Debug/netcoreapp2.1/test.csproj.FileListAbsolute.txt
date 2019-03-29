@@ -1,0 +1,11 @@
+/Users/dayne-game/Desktop/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/dayne-game/Desktop/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/dayne-game/Desktop/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/dayne-game/Desktop/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/dayne-game/Desktop/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/dayne-game/Desktop/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/dayne-game/Desktop/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/dayne-game/Desktop/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/dayne-game/Desktop/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/dayne-game/Desktop/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/dayne-game/Desktop/test/obj/Debug/netcoreapp2.1/test.pdb
